@@ -1,0 +1,51 @@
+.zp-footerMain {
+  width: 100%;
+  background-color: #0d4156;
+}
+.zp-footer-Header {
+  height: 60px;
+  float: left;
+  margin-left: 36px;
+  border-bottom: 1px solid #fff;
+}
+
+.zp-footer-listMain {
+  width: 100%;
+  display: flex;
+}
+.zp-footer-list {
+  margin-right: 10px;
+}
+.zp-footer-listUi {
+  list-style: none;
+  text-align: left;
+}
+.zp-footer-listLi {
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+.zp-footer-Address {
+  margin: 2px 30px;
+  font-size: 12px;
+  text-align: left;
+  line-height: 1.5;
+}
+.zp-footer-Support {
+  margin: 2px 30px;
+  font-size: 12px;
+  text-align: left;
+  line-height: 2;
+}
+.zp-footer-logoBottom {
+  font-size: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #2a636e;
+}
+.zp-footer-bottom {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.zp-footer-bottomText {
+  font-size: 12px;
+}
